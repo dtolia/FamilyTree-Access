@@ -16,7 +16,7 @@ This method is only compatible with MS Access 2007 because the ActiveX control, 
 01. Install MS Office 2007.
 02. Open MS Access 2007. Create a database named "Fam."
 03. Create a table named "Family." This table will have 3 columns named ID, NameID and ParentID with data types as Number, Text and Number, respectively.
-04. Populate your table with you family data.
+04. Populate your table with your family data.
 05. Create a new form named "frmFamilyTree" in Design View.
 06. In Form Design View, make sure the "Control Toolbox" is visible (usually on the left side, or go to "View" > "Toolbox"). Click on the "More Controls" button in the Toolbox (it looks like a hammer and wrench). In the "Insert ActiveX Control" dialog, scroll down and select "Microsoft TreeView Control, version 6.0 (SP6)". Click "OK".
 
