@@ -1,5 +1,5 @@
 # Creating Family Trees using MS Access
- Do note that this method can only be used in MS Access 2007 because the ActiveX control named Microsoft TreeView Control has been discontinued in later versions of MS Office. The versions of Microsoft Windows released after Windows 7 do not contain the required MSCOMCTL.OCX file required to run Microsoft TreeView Control. So, we need to get them before installing MS Office 2007.
+This method is only compatible with MS Access 2007 because the ActiveX control, Microsoft TreeView Control, is not available in later MS Office versions. Furthermore, Microsoft Windows versions after Windows 7 lack the MSCOMCTL.OCX file needed to run the TreeView Control. Therefore, you must obtain this file before installing MS Office 2007.
 
 ## Getting MSCOMCTL.OCX File
 1. Go to this [link from Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=10019) and download Microsoft Visual Basic 6.0 Common Controls.
