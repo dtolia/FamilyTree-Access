@@ -20,7 +20,8 @@
 06. In Form Design View, make sure the "Control Toolbox" is visible (usually on the left side, or go to "View" > "Toolbox"). Click on the "More Controls" button in the Toolbox (it looks like a hammer and wrench). In the "Insert ActiveX Control" dialog, scroll down and select "Microsoft TreeView Control, version 6.0 (SP6)". Click "OK".
 
 07. Click on your form to place the TreeView control.
-   - Important: Check the name of your TreeView control. Select the TreeView, and in the "Property Sheet" (if not visible, go to "View" > "Property Sheet"), look at the "Name" property under the "Other" tab.  If it's not "TreeView0", replace Me.TreeView0 in the VBA code with the actual name of your TreeView control.   
+    - Important: Check the name of your TreeView control. Select the TreeView, and in the "Property Sheet" (if not visible, go to "View" > "Property Sheet"), look at the "Name" property under the "Other" tab.  If it's not "TreeView0", replace Me.TreeView0 in the VBA code with the actual name of your TreeView control.
+
 08. Right click on TreeViewControl area on your form.
 09. Go to TreeView Object > Properties. Change LineStyle to 1-tvwRootLines.
 10. In Form Design View, click on "View" > "Code" (or press Alt + F11 to open the VBA editor directly).
