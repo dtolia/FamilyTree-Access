@@ -25,5 +25,7 @@
 08. Right click on TreeViewControl area on your form.
 09. Go to TreeView Object > Properties. Change LineStyle to 1-tvwRootLines.
 10. In Form Design View, click on "View" > "Code" (or press Alt + F11 to open the VBA editor directly).
-11. In the VBA editor, paste the code provided in the "Form_frmFamilyTree" file of this repository.
+11. In the VBA editor, paste the code provided in the "Form_frmFamilyTree.cls" file of this repository.
 12. Save your form. Switch to Form View to run the form. The TreeView should now be populated with your family tree data.
+
+---
