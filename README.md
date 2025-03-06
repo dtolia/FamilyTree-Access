@@ -1,6 +1,6 @@
 # Creating Family Trees using MS Access
 ![Family Tree Image](/FamilyTree_Sample.png "This is how the family tree looks!")
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="97%" src="/FamilyTree_Table.png" alt="Family Table Image"> 
 </p>
 
