@@ -2,7 +2,7 @@
 ![Family Tree Image](/FamilyTree_Sample.png "This is how the family tree looks!")
 ![Family Table Image](/FamilyTree_Table.png "This is how the Family table looks.")
 
-<p align="center" width="100%">
+<p align="center" width="300%">
     <img width="33%" src="/FamilyTree_Table.png"> 
 </p>
 
