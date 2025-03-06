@@ -1,9 +1,7 @@
 # Creating Family Trees using MS Access
 ![Family Tree Image](/FamilyTree_Sample.png "This is how the family tree looks!")
-![Family Table Image](/FamilyTree_Table.png "This is how the Family table looks.")
-
 <p align="center" width="100%">
-    <img width="100%" src="/FamilyTree_Table.png"> 
+    <img width="100%" src="/FamilyTree_Table.png" alt="Family Table Image"> 
 </p>
 
 This method is only compatible with MS Access 2007 because the ActiveX control, Microsoft TreeView Control, is not available in later MS Office versions. Furthermore, Microsoft Windows versions after Windows 7 lack the MSCOMCTL.OCX file needed to run the TreeView Control. Therefore, you must obtain this file before installing MS Office 2007.
